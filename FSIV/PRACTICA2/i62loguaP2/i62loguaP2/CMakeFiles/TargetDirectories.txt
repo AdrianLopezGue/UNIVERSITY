@@ -1,0 +1,3 @@
+/home/adrian/Escritorio/PRACTICAS-FSIV/PRACTICA2/i62loguaP2/i62loguaP2/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/PRACTICAS-FSIV/PRACTICA2/i62loguaP2/i62loguaP2/CMakeFiles/unsharp.dir
+/home/adrian/Escritorio/PRACTICAS-FSIV/PRACTICA2/i62loguaP2/i62loguaP2/CMakeFiles/edit_cache.dir

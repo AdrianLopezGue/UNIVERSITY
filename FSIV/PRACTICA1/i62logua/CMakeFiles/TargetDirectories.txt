@@ -1,0 +1,3 @@
+/home/adrian/Escritorio/PRACTICAS-FSIV/PRACTICA1/i62logua/CMakeFiles/rebuild_cache.dir
+/home/adrian/Escritorio/PRACTICAS-FSIV/PRACTICA1/i62logua/CMakeFiles/ecuImg.dir
+/home/adrian/Escritorio/PRACTICAS-FSIV/PRACTICA1/i62logua/CMakeFiles/edit_cache.dir
